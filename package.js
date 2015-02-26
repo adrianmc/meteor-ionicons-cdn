@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'adrianmc:ionicons-cdn',
+  name: 'liadrian:ionicons-cdn',
   version: '1.0.0',
   // Brief, one-line summary of the package.
   summary: 'Ionicons loaded from a CDN',
